@@ -72,7 +72,7 @@ The config database an image of mysql:8 with volumen for persistence of data on 
 ```
 This application is a CRUD where you can insert images in addition to normal data using migrations and the MVC protocol, with boostrap vertion 5. 
 ```
-![index](/public/index.png). 
+![index](/public/index.png) 
 ![edit](/public/edit.png)
 
 ## use
